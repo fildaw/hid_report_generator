@@ -9,4 +9,6 @@ File `utils.rs` has helper functions to generate HID report of a gamepad.
 
 # Copyright
 &copy; 2022 fildaw<br><br>
+Based on: https://github.com/GamesCreatorsClub/GCC-Joystick/blob/master/src/python/bt_joystick/hid_report_descriptor.py<br>
+Written in Rust!<br>
 My first published Rust crate, any advice on improving the code is highly appreciated, thank you!
